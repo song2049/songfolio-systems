@@ -77,14 +77,11 @@ export const projects: Project[] = [
           "실사/갱신/좌석/비용 추적을 ‘업무 흐름’으로 고정할 수 있는 토대 구축",
         ],
       },
-      {
-        images: [
-          "/projects/gas/01.png",
-          "/projects/gas/02.png",
-          "/projects/gas/03.png",
-        ],
-      },
-
+    ],
+    images: [
+      "/projects/gas/01.png",
+      "/projects/gas/02.png",
+      "/projects/gas/03.png",
     ],
   },
 
